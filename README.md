@@ -1,4 +1,4 @@
-# assignment
+# Flutter Assignment
 
 A new Flutter project.
 
@@ -7,13 +7,13 @@ A new Flutter project.
 ##HomeScreen
 
 <p align="center">
-  <img src="./Screenshots/HomeScreen.png" >
+  <img src="./Screenshots/home.png" >
 </p>
 
 ##Login
 
 <p align="center">
-  <img src="./Screenshots/Login.png" >
+  <img src="./Screenshots/login.png" >
 </p>
 
 ##Signup
