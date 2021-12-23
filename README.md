@@ -19,7 +19,7 @@ A new Flutter project.
 ##Signup
 
 <p align="center">
-  <img src="./Screenshots/SignUp.png" >
+  <img src="./Screenshots/Signup.png" >
 </p>
 
 
